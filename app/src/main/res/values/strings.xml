@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Curso</string>
+    <string name="male_icon">Male_Icon</string>
+    <string name="man">Hombre</string>
+    <string name="female_icon">Female_Icon</string>
+    <string name="female">Mujer</string>
 </resources>
